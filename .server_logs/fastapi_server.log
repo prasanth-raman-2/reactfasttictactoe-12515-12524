@@ -1,0 +1,7 @@
+INFO:     Started server process [769]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0INFO:     172.17.0.1:60204 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60212 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60218 - "GET /docs HTTP/1.1" 200 OK
+INFO:     172.17.0.1:60226 - "GET /docs HTTP/1.1" 200 OK
